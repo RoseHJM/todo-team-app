@@ -6,9 +6,9 @@ metadata:
 platform:
   type: devcenter
   config:
-    name: wabrez-devcenter
-    project: Project1
-    catalog: SampleCatalog
+    name: Contoso-DevCenter
+    project: Project-Contoso-GameDev
+    catalog: github-sample-cat-azd
     environmentDefinition: Todo
 services:
   web:
